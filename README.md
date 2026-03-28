@@ -188,4 +188,4 @@ This project is submitted for academic purposes under the Open Source Software c
 
 ---
 
-*Submitted as part of the OSS Audit assignment  Vellore Institute of Technology*
+*Submitted as part of the OSS Audit Capstone Project  Vellore Institute of Technology*
