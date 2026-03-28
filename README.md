@@ -30,5 +30,5 @@ Follow these steps to download and run the audit toolkit on your local machine:
 **1. Clone the repository:**
 First, pull the scripts down to your local environment and navigate into the folder:
 ```bash
-git clone [https://github.com/ayush-tratens/oss-audit-24BCE10324.git](https://github.com/your-username/oss-audit-24BCE10324.git)
+git clone [https://github.com/ayush-tratens/oss-audit-24BCE10324.git](https://github.com/ayush-tratens/oss-audit-24BCE10324.git)
 cd oss-audit-24BCE10324
